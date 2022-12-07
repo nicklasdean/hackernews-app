@@ -14,7 +14,6 @@ import com.example.hackernews.services.Fetcher;
 public class MainActivity extends AppCompatActivity {
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
     private final static int TEXT_REQUEST = 1;
-    private Fetcher hackerFetch = new Fetcher();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
