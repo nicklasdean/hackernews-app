@@ -1,0 +1,7 @@
+<resources>
+    <string name="blank"></string>
+    <string name="headline">Hackernews</string>
+    <string name="app_name">HackerNews</string>
+    <string name="article_title">Nothing noteworthy happened all day</string>
+    <string name="sub_heading">WOW - what a surprise</string>
+</resources>
